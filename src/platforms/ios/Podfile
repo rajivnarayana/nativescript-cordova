@@ -1,1 +1,2 @@
 pod 'Cordova'
+pod 'cordova-plugin-statusbar'
